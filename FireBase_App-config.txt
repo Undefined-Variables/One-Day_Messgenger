@@ -1,4 +1,4 @@
-
+<!-- No this was not a mistake as the api is deliberately not secret and is visible in js when in use! -->
 
 <!-- The core Firebase JS SDK is always required and must be listed first -->
 <script src="https://www.gstatic.com/firebasejs/7.14.1/firebase-app.js"></script>
