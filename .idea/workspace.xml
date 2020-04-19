@@ -2,25 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="385a576b-a6f0-46a8-914f-da189062ff00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/one-day/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one-day/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/helpers/New Text Document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/helpers/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/helpers/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/pages/Chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/pages/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/pages/Signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/services/firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one-day/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/one-day/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/one-day/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/one-day/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/one-day/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +66,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="85" y="95" width="713" height="406" key="#Notifications" timestamp="1587294046673">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="85" y="95" width="713" height="406" key="#Notifications/0.0.1366.728/1366.-662.1920.1040@0.0.1366.728" timestamp="1587294046673" />
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587284654233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
