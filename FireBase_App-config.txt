@@ -1,0 +1,25 @@
+
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.14.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.14.1/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyD88SbAjSPfwzTCHRuMtFKogP9hVCn1QoU",
+    authDomain: "one-day-messenger.firebaseapp.com",
+    databaseURL: "https://one-day-messenger.firebaseio.com",
+    projectId: "one-day-messenger",
+    storageBucket: "one-day-messenger.appspot.com",
+    messagingSenderId: "503212585099",
+    appId: "1:503212585099:web:e5a156977809c7d30ea48e",
+    measurementId: "G-45DN39SNXR"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
