@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="385a576b-a6f0-46a8-914f-da189062ff00" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/FireBase_App-config.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FireBase_App-config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-day/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,12 +34,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1akZn9pLAvqCekFYtUEYuF4Ag4E" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="web.server" />
@@ -38,12 +59,15 @@
       <updated>1587281716315</updated>
       <workItem from="1587281721449" duration="1355000" />
       <workItem from="1587283883166" duration="385000" />
-      <workItem from="1587284319424" duration="1315000" />
+      <workItem from="1587284319424" duration="4003000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587284654233">
