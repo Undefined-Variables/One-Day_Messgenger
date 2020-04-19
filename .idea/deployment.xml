@@ -2,13 +2,6 @@
 <project version="4">
   <component name="PublishConfigData" serverName="undefined-variables">
     <serverData>
-      <paths name="PHP7CMS (local copy)">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
       <paths name="undefined-variables">
         <serverdata>
           <mappings>
