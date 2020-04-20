@@ -1,5 +1,4 @@
-#### One-Day Messenger
-Web - Android - Apple
+#### One-Day - Web - Android - Apple - Instant Messenger
 
 **Goal**<br>
 We’re going to build an application called "One-Day Messenger". It will allow authenticated users to send and
