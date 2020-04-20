@@ -9,24 +9,24 @@ via Google or GitHub using oAuth. Reason for using FireBase aside from the fact 
 use it cross platform (Web, Andriod and Apple ios).
 
 
-**Web App (Ajax service worker)**
-Messenger that's simple to add a website (add folder to root directory). 
+**Web App (Ajax service worker)** - Messenger that's simple add to any website (ie: by uploading source folder to the sites root directory). 
 
-**Android App (Android Studio)**
-:TODO
+**Android App (Android Studio)** - :TODO
 
-**Apple App ios(XCode)**
-:TODO
+**Apple App ios(XCode)** - :TODO
  
 **Requirements**
 Node.js
-Running functional Website to add messenger too.
-Google account (FireBase).
+Website to add messenger too.
+Google account for using FireBase.
 
 **Technology**
-React which is a javascript framework.
+React javascript framework.
+Andriod Studio.
+XCode.
+Node.js.
 
-Firebase which is Google’s mobile platform for quickly developing apps. Firebase provides a suite
+What is Firebase? Google’s mobile platform for quickly developing apps. Firebase provides a suite
 of tools for authenticating applications, building reactive client apps, reporting analytics, as 
 well as a host of other helpful resources for managing apps in general. It also provides back-end 
 management for web, iOS, Android, and Unity, a 3D development platform.
