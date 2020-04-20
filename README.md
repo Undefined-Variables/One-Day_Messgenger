@@ -1,4 +1,4 @@
-#### One-Day Messenger<br>
+#### One-Day Messenger
 Web - Android - Apple
 
 **Goal**<br>
