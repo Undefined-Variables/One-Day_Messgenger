@@ -1,38 +1,68 @@
-#### One-Day Messenger
-Web - Android - Apple
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**Goal** 
-We’re going to build an application called "One-Day Messenger". It will allow authenticated users to send and
-read messages and users can sign up by providing their email and creating a password, or by authenticating 
-via Google or GitHub using oAuth. Reason for using FireBase aside from the fact it's awesome is we can 
-use it cross platform (Web, Andriod and Apple ios).
+## Available Scripts
 
-**Web App (Ajax Service Worker)** 
-Messenger that's simple add to any website (ie: by uploading source folder to the sites root directory). 
+In the project directory, you can run:
 
-**Android App (Android Studio)**
-:TODO
+### `npm start`
 
-**Apple App ios (XCode)** 
-:TODO
- 
-**Requirements**
-Node.js
-Website to add messenger too.
-Google account for using FireBase.
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-**Technology** 
-React javascript framework
-FireBase
-Node.js 
-Andriod Studio
-XCode 
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-**What is Firebase?**
-Google’s mobile platform for quickly developing apps. Firebase provides a suite
-of tools for authenticating applications, building reactive client apps, reporting analytics, as 
-well as a host of other helpful resources for managing apps in general. It also provides back-end 
-management for web, iOS, Android, and Unity, a 3D development platform.
+### `npm test`
 
-**Running Costs**
-FireBase has a free tariff that has limits, which are 100 concurrent connections to cloud databse and 1GB upload/download per month. 
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+
+### Analyzing the Bundle Size
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `npm run build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
