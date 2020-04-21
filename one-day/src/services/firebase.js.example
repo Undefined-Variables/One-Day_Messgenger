@@ -1,0 +1,28 @@
+/**
+*
+*   You need to create a free account to use FireBase. Then create a new
+*   project. You will an get all the values for the config below.
+*   Rename this file to firebase.js by removing the .example suffix
+*
+*   21 April 2020 - Undefined Variables <hey@undefined-variables.com>
+*
+**/
+
+import firebase from 'firebase';
+
+const config = {
+    apiKey: "SEE YOUR FIREBASE ACCOUNT DASHBOARD-->PROJECT_SETTINGS",
+    authDomain: "SEE YOUR FIREBASE ACCOUNT DASHBOARD-->PROJECT_SETTINGS",
+    databaseURL: "SEE YOUR FIREBASE ACCOUNT DASHBOARD-->PROJECT_SETTINGS",
+    projectId: "SEE YOUR FIREBASE ACCOUNT DASHBOARD-->PROJECT_SETTINGS",
+    storageBucket: "SEE YOUR FIREBASE ACCOUNT DASHBOARD-->PROJECT_SETTINGS",
+    messagingSenderId: "SEE YOUR FIREBASE ACCOUNT DASHBOARD-->PROJECT_SETTINGS",
+    appId: "SEE YOUR FIREBASE ACCOUNT DASHBOARD-->PROJECT_SETTINGS",
+    measurementId: "SEE YOUR FIREBASE ACCOUNT DASHBOARD-->PROJECT_SETTINGS"
+};
+
+// Initialize Firebase
+firebase.initializeApp(config);
+firebase.analytics();
+export const auth = firebase.auth;
+export const db = firebase.database();
