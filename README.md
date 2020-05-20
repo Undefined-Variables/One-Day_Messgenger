@@ -34,4 +34,4 @@ well as a host of other helpful resources for managing apps in general. It also 
 management for web, iOS, Android, and Unity, a 3D development platform.
 
 **Running Costs**<br>
-FireBase has a free 
+FireBase has a free starter account option but heavy use will require upgrading this to a paid alternertive.
